@@ -1,0 +1,1 @@
+select * FROM REPODB.REPOSCHEMA.emp_test
